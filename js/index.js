@@ -268,4 +268,6 @@ elForm.addEventListener("submit", async (evt) => {
       }
     });
   }
+
+  users();
 });
